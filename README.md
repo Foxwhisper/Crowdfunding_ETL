@@ -77,7 +77,7 @@ The instructions for this mini project are divided into the following subsection
 - Clean and then export the DataFrame as contacts.csv and save it to your GitHub repository.
 
 # Create the Crowdfunding Database
-1. Inspect the four CSV files, and then sketch an ERD of the tables by using QuickDBDLinks to an external site..
+1. Inspect the four CSV files, and then sketch an ERD of the tables by using QuickDBDLinks to an external site.
 
 2. Use the information from the ERD to create a table schema for each CSV file.
 
