@@ -8,7 +8,7 @@ Select * FROM category
 
 CREATE TABLE subcategory (
   scat_id VARCHAR(20) NOT NULL,
-  sub-categories VARCHAR(255) NOT NULL,
+  sub_categories VARCHAR(255) NOT NULL,
   PRIMARY KEY (scat_id)
 );
 
@@ -31,7 +31,7 @@ CREATE TABLE campaign (
   description VARCHAR(255) NOT NULL,
   goal INT NOT NULL,
   pledged INT NOT NULL, 
-  outcome VARCHAR(50) NOT NULL
+  outcome VARCHAR(50) NOT NULL,
   backers_count INT NOT NULL,
   country VARCHAR(100) NOT NULL,
   currency VARCHAR(100) NOT NULL, 
